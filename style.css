@@ -100,7 +100,7 @@ span{
 /*MENU*/
 nav{
     display: flex; /*Deixa os itens internos soltos na horizontal*/
-    justify-content: center;
+    justify-content: end;
 }
 
 #menu{
